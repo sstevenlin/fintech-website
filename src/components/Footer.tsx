@@ -15,7 +15,7 @@ export default function Footer() {
             />
             <span className="text-sm text-muted">
               &copy; {new Date().getFullYear()} Cornell FinTech Club. All rights
-              reserved.
+              reserved. Built with loving hands.
             </span>
           </div>
 
